@@ -223,5 +223,25 @@
     "discovered": "2026-10-23",
     "sale_date": "2027/1",
     "file_date": "10/23/2026"
+  },
+  "FRCL-2026-8130": {
+    "discovered": "2026-10-30",
+    "sale_date": "05/04/2027",
+    "file_date": "10/29/2026"
+  },
+  "FRCL-2026-8164": {
+    "discovered": "2026-10-30",
+    "sale_date": "03/02/2027",
+    "file_date": "10/29/2026"
+  },
+  "FRCL-2026-8084": {
+    "discovered": "2026-10-30",
+    "sale_date": "02/02/2027",
+    "file_date": "10/29/2026"
+  },
+  "1\n2\n3\n4\n5\n6": {
+    "discovered": "2026-10-30",
+    "sale_date": "2027/1",
+    "file_date": "10/30/2026"
   }
 }
