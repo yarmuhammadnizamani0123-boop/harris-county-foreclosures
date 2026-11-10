@@ -248,5 +248,30 @@
     "discovered": "2026-11-06",
     "sale_date": "2027/1",
     "file_date": "11/06/2026"
+  },
+  "FRCL-2026-8386": {
+    "discovered": "2026-11-10",
+    "sale_date": "02/02/2027",
+    "file_date": "11/09/2026"
+  },
+  "FRCL-2026-8401": {
+    "discovered": "2026-11-10",
+    "sale_date": "02/02/2027",
+    "file_date": "11/09/2026"
+  },
+  "FRCL-2026-8402": {
+    "discovered": "2026-11-10",
+    "sale_date": "02/02/2027",
+    "file_date": "11/09/2026"
+  },
+  "FRCL-2026-8426": {
+    "discovered": "2026-11-10",
+    "sale_date": "02/02/2027",
+    "file_date": "11/09/2026"
+  },
+  "1\n2\n3\n4\n5\n6\n7\n8\n9": {
+    "discovered": "2026-11-10",
+    "sale_date": "2027/1",
+    "file_date": "11/10/2026"
   }
 }
