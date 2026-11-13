@@ -1,5 +1,5 @@
 Harris County Foreclosure Tracker Audit Log
-Execution Date: 2026-11-12
-Total Notices Active: 53
-New Filings Discovered Today: 0
-Existing Filings Deduplicated: 53
+Execution Date: 2026-11-13
+Total Notices Active: 60
+New Filings Discovered Today: 8
+Existing Filings Deduplicated: 52
